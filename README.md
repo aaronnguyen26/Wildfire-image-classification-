@@ -24,9 +24,10 @@ Torchvision
 Pillow
 Matplotlib
 Google Colab (for easy access to GPU and Google Drive)
+
 Installation
 Clone the repository:
-# Replace with your repository URL
+Replace with your repository URL
 git clone <your-repository-url>
 cd <your-repository-directory>
 Install dependencies:
