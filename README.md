@@ -15,7 +15,7 @@ Model Training: Training the CNN model using a binary cross-entropy loss functio
 Hyperparameter Tuning (Grid Search): Experimenting with different learning rates and dropout rates to find the optimal combination for improved model performance and to mitigate overfitting.
 Evaluation: Evaluating the trained model's performance on the validation set.
 Dataset
-The dataset used for this project is assumed to be a zip file named wildfire.zip containing a directory structure with train, val, and test subdirectories, each containing fire and nofire image classes. The dataset is expected to be located in your Google Drive at /content/drive/My Drive/wildfire.zip.
+The dataset used for this project is assumed to be a zip file named wildfire.zip containing a directory structure with train, val, and test subdirectories, each containing fire and nofire image classes. The dataset is on Kaggle website: https://www.kaggle.com/datasets/elmadafri/the-wildfire-dataset. 
 
 Requirements
 Python 3.x
